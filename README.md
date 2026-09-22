@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/kamva04">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/">
@@ -76,6 +76,6 @@ patient information.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: your-email@example.com
-- 🐙 GitHub: [Your GitHub](https://github.com/YOUR_USERNAME)
+- 💼 LinkedIn: LINKEDIN_URL
+- 📧 Email: kamvandebelefele@gmail.com
+- 🐙 GitHub: https://github.com/kamva04
