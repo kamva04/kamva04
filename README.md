@@ -76,6 +76,6 @@ patient information.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: LINKEDIN_URL
+- 💼 LinkedIn: www.linkedin.com/in/kamva-ndebelefele-6a3411275
 - 📧 Email: kamvandebelefele@gmail.com
 - 🐙 GitHub: https://github.com/kamva04
